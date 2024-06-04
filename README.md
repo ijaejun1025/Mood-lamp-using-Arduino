@@ -3,8 +3,7 @@
 This project aims to implement a mood lamp that we can see in everyday life using an Arduino kit.    
 We will use RGB multicolor to show a diverse color set for the user.   
 
-•	Set up Arduino   
-  o	Download Arduino program and set environment for window 64.   
+* Set up Arduino
 
 ## Project picture
 
