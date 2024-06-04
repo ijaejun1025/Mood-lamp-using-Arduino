@@ -24,3 +24,7 @@ We will use RGB multicolor to show a diverse color set for the user.
 ## Mood lamp picture
 
 ![Project picture](https://github.com/ijaejun1025/Mood_lamp-Arduino/assets/154036705/e59e756c-ece1-41d0-8c31-a5394e98f397)
+
+## Mood lamp video
+
+![Mood lamp video](https://github.com/ijaejun1025/Mood_lamp-Arduino/assets/154036705/68c4a23b-7cf6-4344-8d38-0be5d6c777a9)
