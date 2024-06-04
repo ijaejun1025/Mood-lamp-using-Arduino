@@ -7,6 +7,8 @@ We will use RGB multicolor to show a diverse color set for the user.
     * Download Arduino program and set environment for window 64.
 
 * Compose PCB (Printed Circuit Board)
+* ![image](https://github.com/ijaejun1025/Mood_lamp-Arduino/assets/154036705/c3f67a1b-5e9a-4016-83f7-b4e23ee4d737)
+
      * Compose the PCB (printed circuit board) as above.
      * Use one led lantern and three resistors to control RGB colors.
  
