@@ -4,21 +4,21 @@ This project aims to implement a mood lamp that we can see in everyday life usin
 We will use RGB multicolor to show a diverse color set for the user.   
 
 * Set up Arduino
-    * Download Arduino program and set environment for window 64.
+    * Download the Arduino program and set the environment for Windows 64.
 
 * Compose PCB (Printed Circuit Board)
      * ![image](https://github.com/ijaejun1025/Mood_lamp-Arduino/assets/154036705/c3f67a1b-5e9a-4016-83f7-b4e23ee4d737)
      * Compose the PCB (printed circuit board) as above.
-     * Use one led lantern and three resistors to control RGB colors.
+     * Use one LED lantern and three resistors to control RGB colors.
  
 * Programming
      * Program Arduino system
-     * Use random function to implement diverse color visually.
-     * Check the color set and search how many colors Arduino can make.
-     * Arduino will show random variables which it used for parameters.
+     * Use a random function to implement diverse colors visually.
+     * Check the color set and search for how many colors Arduino can make.
+     * Arduino will show random variables that it uses for parameters.
  
 * Test and review
-     * Test Arduino program and check the colors
+     * Test the Arduino program and check the colors.
 
 
 ## Project picture
