@@ -1,6 +1,6 @@
 # Mood-lamp-using-Arduino
 
-This project uses an Arduino kit to create a mood lamp.
+This is the project for making a mood lamp using an Arduino kit. 
 
 ## Picture
 
