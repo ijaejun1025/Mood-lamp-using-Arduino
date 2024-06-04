@@ -1,6 +1,9 @@
 # Mood-lamp-using-Arduino
 
-This is the project for making a mood lamp using an Arduino kit. 
+This project aims to implement a mood lamp that we can see in everyday life using an Arduino kit.    
+We will use RGB multicolor to show a diverse color set for the user.   
+
+By implementing the basic lamp program, we can understand how Arduino works and how to code the Arduino programming for the stuff in real life.   
 
 ## Project picture
 
